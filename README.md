@@ -62,14 +62,14 @@
 
 ## 📂 项目结构
 
-smart-qa-neo4j-bert/
-├── data/                # 示例原始资料 (pdf/doc/image)
-├── preprocessing/       # 文档解析 & OCR & NER
-├── graph/               # Neo4j 数据导入脚本
-├── qa/                  # BERT-based QA 模块
-├── api/                 # FastAPI 接口
-├── tests/               # 单元测试
-└── README.md
+- smart-qa-neo4j-bert/
+  - ├── data/                # 示例原始资料 (pdf/doc/image)
+  - ├── preprocessing/       # 文档解析 & OCR & NER
+  - ├── graph/               # Neo4j 数据导入脚本
+  - ├── qa/                  # BERT-based QA 模块
+  - ├── api/                 # FastAPI 接口
+  - ├── tests/               # 单元测试
+  - └── README.md
 
 ---
 
