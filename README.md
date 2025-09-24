@@ -85,6 +85,7 @@ pip install -r requirements.txt
 
 # 3. 运行 FastAPI
 uvicorn api.main:app --reload
+```
 
 ## 🧩 示例
 
